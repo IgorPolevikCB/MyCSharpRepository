@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Autotest>
+    <Name>Название кейса</Name>
+    <Identifier>Идентификатор</Identifier>
+    <Priority>Приоритет</Priority>
+    <Requirement>Требование</Requirement>
+    <Module>Модуль</Module>
+    <Submodule>Подмодуль</Submodule>
+    <TitleAndSteps>Заглавие тест-кейса</TitleAndSteps>
+    <RequiredStepResult>Ожидаемый результат</RequiredStepResult>
+  </Autotest>
+  <Autotest>
+    <Name>TestOne</Name>
+    <Identifier>UG_U1.12</Identifier>
+    <Priority>A</Priority>
+    <Requirement>R97</Requirement>
+    <Module>Галерея</Module>
+    <Submodule>Загрузка файла</Submodule>
+    <TitleAndSteps>Галерея, загрузка файла, имя со спец-символами Приготовления: создать непустой файл с именем.</TitleAndSteps>
+    <RequiredStepResult>1. Появляется окно загрузки картинки.</RequiredStepResult>
+  </Autotest>
+</NewDataSet>
